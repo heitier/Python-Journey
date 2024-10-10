@@ -17,5 +17,5 @@ I'm excited to share my journey and collaborate with others who are passionate a
 * Expand Project Range: Incorporate more diverse projects, including web development, data science, and automation.
 * Contribute to Open Source: Start contributing to open-source Python projects.
 * Continuous Learning: Keep updating my skills with the latest Python trends and best practices.
-# 🌈 Happy Learning!
+#  Happy Learning!
 I'm thoroughly enjoying my Python journey and hope that my projects can inspire and assist others who are also learning. Let's grow together in this exciting field!
